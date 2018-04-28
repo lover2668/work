@@ -1,0 +1,4 @@
+C:\auto_scard\launchsessionDesktop.ps1 user1 njvda-rw7301 https://njddc.njcitrix.net/Citrix/SmartcardWeb/ "njvda-rw7301 - Desktop Viewer" 12345678
+
+
+C:\auto_scard\launchsessionDesktop.ps1 C:\auto_scard\scard_auto.conf 3

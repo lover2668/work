@@ -1,0 +1,50 @@
+
+Note:
+*******************************************************************************
+ Application Version is        :  1.0.0
+ Application author is         :  Jason cao
+ Single-click left mouse button:  Get the current mouse coordinates X-Y value
+ Single-click left mouse button:  get the current mouse coordinates X-Y value
+ Mouse X-Y values was saved in :  C:\auto_scard\mouse_log.txt
+*******************************************************************************
+
+current time is [2018-04-27 10:36:58]
+
+Window size of computer is [1920 - 1080]
+
+[   1]: [1032 -  423]
+
+[   2]: [ 835 -  554]
+
+[   3]: [ 680 -  525]
+
+[   4]: [ 575 -  583]
+
+[   5]: [ 539 -  617]
+
+[   6]: [ 688 -  667]
+
+[   7]: [ 794 -  642]
+
+[   8]: [ 942 -  609]
+
+[   9]: [1095 -  578]
+
+[  10]: [1282 -  540]
+
+[  11]: [1383 -  513]
+
+[  12]: [1458 -  486]
+
+[  13]: [ 981 -  613]
+
+[  14]: [ 842 -  599]
+
+[  15]: [ 653 -  618]
+
+[  16]: [ 577 -  675]
+
+[  17]: [ 581 -  668]
+
+[  18]: [ 645 -  538]
+

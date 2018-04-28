@@ -1,0 +1,216 @@
+2018-02-07 10:29:28,308 - LaunchSession.py:588 - test - 
+2018-02-07 10:29:28,322 - LaunchSession.py:589 - test - ********************************************************************************************
+2018-02-07 10:29:28,322 - LaunchSession.py:590 - test - Read configuration file result is:
+2018-02-07 10:29:28,322 - LaunchSession.py:591 - test - ********************************************************************************************
+2018-02-07 10:29:28,322 - LaunchSession.py:592 - test - user_name        : user1
+2018-02-07 10:29:28,322 - LaunchSession.py:593 - test - app_name         : njvda-rw7301
+2018-02-07 10:29:28,322 - LaunchSession.py:594 - test - VDA_name         : njvda-rw7301 - Desktop Viewer
+2018-02-07 10:29:28,322 - LaunchSession.py:595 - test - ddc_url          : https://njddc.njcitrix.net/Citrix/SmartcardWeb/
+2018-02-07 10:29:28,322 - LaunchSession.py:596 - test - PIN_passwd       : 12345678
+2018-02-07 10:29:28,322 - LaunchSession.py:597 - test - Incorrect_passwd : 0000000
+2018-02-07 10:29:28,322 - LaunchSession.py:598 - test - 
+2018-02-07 10:29:28,322 - LaunchSession.py:600 - test - citrix_receiver_desktops_x  : 1025
+2018-02-07 10:29:28,322 - LaunchSession.py:601 - test - citrix_receiver_desktops_y  : 92
+2018-02-07 10:29:28,322 - LaunchSession.py:602 - test - vda_pin_center_x            : 781
+2018-02-07 10:29:28,322 - LaunchSession.py:603 - test - vda_pin_center_y            : 502
+2018-02-07 10:29:28,322 - LaunchSession.py:604 - test - vda_pin_passwd_x            : 1138
+2018-02-07 10:29:28,322 - LaunchSession.py:605 - test - vda_pin_passwd_y            : 488
+2018-02-07 10:29:28,322 - LaunchSession.py:606 - test - vda_pin_ok_button_x         : 1107
+2018-02-07 10:29:28,322 - LaunchSession.py:607 - test - vda_pin_ok_button_y         : 558
+2018-02-07 10:29:28,322 - LaunchSession.py:608 - test - 
+2018-02-07 10:29:28,322 - LaunchSession.py:610 - test - proc_wait_time : 30
+2018-02-07 10:29:28,322 - LaunchSession.py:611 - test - opt_wait_time  : 5
+2018-02-07 10:29:28,322 - LaunchSession.py:612 - test - 
+2018-02-07 10:29:28,322 - LaunchSession.py:614 - test - work_path   : c:\auto_scard
+2018-02-07 10:29:28,322 - LaunchSession.py:615 - test - ps_logfile  : logs\ps.log
+2018-02-07 10:29:28,322 - LaunchSession.py:616 - test - py_logfile  : logs\py.log
+2018-02-07 10:29:28,322 - LaunchSession.py:617 - test - ********************************************************************************************
+2018-02-07 10:29:28,322 - LaunchSession.py:618 - test - 
+2018-02-07 10:29:28,322 - LaunchSession.py:620 - test - Input parameters:
+2018-02-07 10:29:28,322 - LaunchSession.py:621 - test - ********************************************************************************************
+2018-02-07 10:29:28,322 - LaunchSession.py:622 - test - Resource type  : [desktop].
+2018-02-07 10:29:28,322 - LaunchSession.py:623 - test - Test type      : [3].
+2018-02-07 10:29:28,322 - LaunchSession.py:624 - test - Reconnect flag : [0].
+2018-02-07 10:29:28,322 - LaunchSession.py:625 - test - ********************************************************************************************
+2018-02-07 10:29:28,322 - LaunchSession.py:626 - test - 
+2018-02-07 10:29:28,322 - LaunchSession.py:628 - test - No reset before, work path is [C:\Windows\system32].
+2018-02-07 10:29:28,322 - LaunchSession.py:629 - test - No reset before, abs path is [c:\auto_scard].
+2018-02-07 10:29:28,322 - LaunchSession.py:630 - test - 
+2018-02-07 10:29:28,322 - LaunchSession.py:636 - test - this client screen width and height is [1920 - 1080].
+2018-02-07 10:29:28,322 - LaunchSession.py:637 - test - 
+2018-02-07 10:29:28,322 - LaunchSession.py:639 - test - work path is [c:\auto_scard].
+2018-02-07 10:29:28,322 - LaunchSession.py:640 - test - abs path is [c:\auto_scard].
+2018-02-07 10:29:28,322 - LaunchSession.py:641 - test - 
+2018-02-07 10:29:28,322 - LaunchSession.py:645 - test - desktops is exist
+2018-02-07 10:29:28,322 - LaunchSession.py:667 - test - 
+2018-02-07 10:29:28,635 - LaunchSession.py:673 - test - no iexplore [-1].
+2018-02-07 10:29:28,635 - LaunchSession.py:44 - test - 
+2018-02-07 10:29:28,635 - LaunchSession.py:45 - test - [launch_session]:
+2018-02-07 10:29:28,635 - LaunchSession.py:46 - test - ********************************************************************************************
+2018-02-07 10:29:28,635 - LaunchSession.py:47 - test - citrix_receiver_desktops_x  : 1025
+2018-02-07 10:29:28,635 - LaunchSession.py:48 - test - citrix_receiver_desktops_y  : 92
+2018-02-07 10:29:28,635 - LaunchSession.py:49 - test - vda_pin_center_x            : 781
+2018-02-07 10:29:28,635 - LaunchSession.py:50 - test - vda_pin_center_y            : 502
+2018-02-07 10:29:28,635 - LaunchSession.py:51 - test - vda_pin_passwd_x            : 1138
+2018-02-07 10:29:28,635 - LaunchSession.py:52 - test - vda_pin_passwd_y            : 488
+2018-02-07 10:29:28,635 - LaunchSession.py:53 - test - vda_pin_ok_button_x         : 1107
+2018-02-07 10:29:28,635 - LaunchSession.py:54 - test - vda_pin_ok_button_y         : 558
+2018-02-07 10:29:28,635 - LaunchSession.py:55 - test - 
+2018-02-07 10:29:28,635 - LaunchSession.py:57 - test - proc_wait_time : 30
+2018-02-07 10:29:28,635 - LaunchSession.py:58 - test - opt_wait_time  : 5
+2018-02-07 10:29:28,635 - LaunchSession.py:59 - test - ********************************************************************************************
+2018-02-07 10:29:28,635 - LaunchSession.py:60 - test - 
+2018-02-07 10:29:28,635 - LaunchSession.py:65 - test - Resource type is [desktop] and app name is [njvda-rw7301].
+2018-02-07 10:29:28,635 - LaunchSession.py:66 - test - @@@@@@@@@@@@@@@ start ...
+2018-02-07 10:29:28,742 - LaunchSession.py:72 - test - call iexplore []
+2018-02-07 10:29:28,742 - LaunchSession.py:79 - test - 
+2018-02-07 10:29:33,746 - LaunchSession.py:87 - test - getWindow result is [<pyautogui._window_win.Window object at 0x02AE8050>]
+2018-02-07 10:29:33,746 - LaunchSession.py:96 - test - Find Windows Security dialog.
+2018-02-07 10:29:35,964 - LaunchSession.py:111 - test - 
+2018-02-07 10:29:35,964 - LaunchSession.py:113 - test - PIN password input success, start sleep...
+2018-02-07 10:29:45,970 - LaunchSession.py:115 - test - PIN password input success, sleep end.
+2018-02-07 10:29:45,970 - LaunchSession.py:121 - test - Check PIN password whether is correct ? [None]
+2018-02-07 10:29:45,970 - LaunchSession.py:125 - test - PIN password is correct.
+2018-02-07 10:29:46,970 - LaunchSession.py:121 - test - Check PIN password whether is correct ? [None]
+2018-02-07 10:29:46,970 - LaunchSession.py:125 - test - PIN password is correct.
+2018-02-07 10:29:47,970 - LaunchSession.py:121 - test - Check PIN password whether is correct ? [None]
+2018-02-07 10:29:47,970 - LaunchSession.py:125 - test - PIN password is correct.
+2018-02-07 10:29:48,986 - LaunchSession.py:121 - test - Check PIN password whether is correct ? [None]
+2018-02-07 10:29:48,986 - LaunchSession.py:125 - test - PIN password is correct.
+2018-02-07 10:29:49,986 - LaunchSession.py:121 - test - Check PIN password whether is correct ? [None]
+2018-02-07 10:29:49,986 - LaunchSession.py:125 - test - PIN password is correct.
+2018-02-07 10:29:51,002 - LaunchSession.py:121 - test - Check PIN password whether is correct ? [None]
+2018-02-07 10:29:51,002 - LaunchSession.py:125 - test - PIN password is correct.
+2018-02-07 10:29:52,016 - LaunchSession.py:121 - test - Check PIN password whether is correct ? [None]
+2018-02-07 10:29:52,016 - LaunchSession.py:125 - test - PIN password is correct.
+2018-02-07 10:29:53,026 - LaunchSession.py:121 - test - Check PIN password whether is correct ? [None]
+2018-02-07 10:29:53,026 - LaunchSession.py:125 - test - PIN password is correct.
+2018-02-07 10:29:54,026 - LaunchSession.py:121 - test - Check PIN password whether is correct ? [None]
+2018-02-07 10:29:54,026 - LaunchSession.py:125 - test - PIN password is correct.
+2018-02-07 10:29:55,026 - LaunchSession.py:121 - test - Check PIN password whether is correct ? [None]
+2018-02-07 10:29:55,026 - LaunchSession.py:125 - test - PIN password is correct.
+2018-02-07 10:29:56,026 - LaunchSession.py:134 - test - 
+2018-02-07 10:29:56,026 - LaunchSession.py:137 - test - current mouse w-d is [92 - 243].
+2018-02-07 10:29:56,026 - LaunchSession.py:142 - test - resourcetype is [desktop] and x-y is [1025 - 92].
+2018-02-07 10:29:56,134 - LaunchSession.py:147 - test - start screen search...
+2018-02-07 10:29:57,306 - LaunchSession.py:149 - test - screen search result is [None]
+2018-02-07 10:29:57,306 - LaunchSession.py:152 - test - Can not find icon for desktops.
+2018-02-07 10:29:57,306 - LaunchSession.py:155 - test - click desktop when fail to find desktop.
+2018-02-07 10:29:57,415 - LaunchSession.py:159 - test - click after, mouse w-d is [1025 - 92].
+2018-02-07 10:29:57,415 - LaunchSession.py:183 - test - Change to Destops or favorites success, start sleep...
+2018-02-07 10:30:02,421 - LaunchSession.py:185 - test - Change to Destops or favorites success, sleep end.
+2018-02-07 10:30:02,421 - LaunchSession.py:188 - test - type app name is [njvda-rw7301].
+2018-02-07 10:30:08,529 - LaunchSession.py:191 - test - press tab.
+2018-02-07 10:30:08,749 - LaunchSession.py:191 - test - press tab.
+2018-02-07 10:30:08,967 - LaunchSession.py:194 - test - press enter.
+2018-02-07 10:30:19,076 - LaunchSession.py:198 - test - 
+2018-02-07 10:30:19,076 - LaunchSession.py:214 - test - Do not close IE, because of need testing reconnect.
+2018-02-07 10:30:49,078 - LaunchSession.py:218 - test - 
+2018-02-07 10:30:49,078 - LaunchSession.py:233 - test - find desktop session.
+2018-02-07 10:30:54,078 - LaunchSession.py:239 - test - set foucus desktop session finished.
+2018-02-07 10:30:54,078 - LaunchSession.py:243 - test - center X-Y of  windows is [781 - 502].
+2018-02-07 10:30:54,078 - LaunchSession.py:248 - test - current mouse w-d is [759 - 359].
+2018-02-07 10:30:54,187 - LaunchSession.py:256 - test - press tab keyboard change to PIN.
+2018-02-07 10:30:54,515 - LaunchSession.py:265 - test - input PIN password.
+2018-02-07 10:30:54,842 - LaunchSession.py:274 - test - press tab keyboard change to OK.
+2018-02-07 10:30:54,953 - LaunchSession.py:278 - test - press enter keyboard change to finish.
+2018-02-07 10:30:54,953 - LaunchSession.py:280 - test - current result is [2000].
+2018-02-07 10:31:24,957 - LaunchSession.py:286 - test - 
+2018-02-07 10:31:24,957 - LaunchSession.py:680 - test - call launch_session result is [0].
+2018-02-07 10:31:24,957 - LaunchSession.py:690 - test - Log on and open LinuxVDA success, return.
+2018-02-07 10:31:24,957 - LaunchSession.py:691 - test - 
+2018-02-07 10:32:37,584 - LaunchSession.py:588 - test - 
+2018-02-07 10:32:37,584 - LaunchSession.py:589 - test - ********************************************************************************************
+2018-02-07 10:32:37,584 - LaunchSession.py:590 - test - Read configuration file result is:
+2018-02-07 10:32:37,584 - LaunchSession.py:591 - test - ********************************************************************************************
+2018-02-07 10:32:37,584 - LaunchSession.py:592 - test - user_name        : user1
+2018-02-07 10:32:37,584 - LaunchSession.py:593 - test - app_name         : njvda-rw7301
+2018-02-07 10:32:37,584 - LaunchSession.py:594 - test - VDA_name         : njvda-rw7301 - Desktop Viewer
+2018-02-07 10:32:37,584 - LaunchSession.py:595 - test - ddc_url          : https://njddc.njcitrix.net/Citrix/SmartcardWeb/
+2018-02-07 10:32:37,584 - LaunchSession.py:596 - test - PIN_passwd       : 12345678
+2018-02-07 10:32:37,584 - LaunchSession.py:597 - test - Incorrect_passwd : 0000000
+2018-02-07 10:32:37,584 - LaunchSession.py:598 - test - 
+2018-02-07 10:32:37,584 - LaunchSession.py:600 - test - citrix_receiver_desktops_x  : 1025
+2018-02-07 10:32:37,584 - LaunchSession.py:601 - test - citrix_receiver_desktops_y  : 92
+2018-02-07 10:32:37,584 - LaunchSession.py:602 - test - vda_pin_center_x            : 781
+2018-02-07 10:32:37,584 - LaunchSession.py:603 - test - vda_pin_center_y            : 502
+2018-02-07 10:32:37,584 - LaunchSession.py:604 - test - vda_pin_passwd_x            : 1138
+2018-02-07 10:32:37,584 - LaunchSession.py:605 - test - vda_pin_passwd_y            : 488
+2018-02-07 10:32:37,584 - LaunchSession.py:606 - test - vda_pin_ok_button_x         : 1107
+2018-02-07 10:32:37,584 - LaunchSession.py:607 - test - vda_pin_ok_button_y         : 558
+2018-02-07 10:32:37,584 - LaunchSession.py:608 - test - 
+2018-02-07 10:32:37,584 - LaunchSession.py:610 - test - proc_wait_time : 30
+2018-02-07 10:32:37,584 - LaunchSession.py:611 - test - opt_wait_time  : 5
+2018-02-07 10:32:37,584 - LaunchSession.py:612 - test - 
+2018-02-07 10:32:37,584 - LaunchSession.py:614 - test - work_path   : c:\auto_scard
+2018-02-07 10:32:37,584 - LaunchSession.py:615 - test - ps_logfile  : logs\ps.log
+2018-02-07 10:32:37,584 - LaunchSession.py:616 - test - py_logfile  : logs\py.log
+2018-02-07 10:32:37,584 - LaunchSession.py:617 - test - ********************************************************************************************
+2018-02-07 10:32:37,584 - LaunchSession.py:618 - test - 
+2018-02-07 10:32:37,584 - LaunchSession.py:620 - test - Input parameters:
+2018-02-07 10:32:37,584 - LaunchSession.py:621 - test - ********************************************************************************************
+2018-02-07 10:32:37,584 - LaunchSession.py:622 - test - Resource type  : [desktop].
+2018-02-07 10:32:37,584 - LaunchSession.py:623 - test - Test type      : [3].
+2018-02-07 10:32:37,584 - LaunchSession.py:624 - test - Reconnect flag : [1].
+2018-02-07 10:32:37,584 - LaunchSession.py:625 - test - ********************************************************************************************
+2018-02-07 10:32:37,584 - LaunchSession.py:626 - test - 
+2018-02-07 10:32:37,584 - LaunchSession.py:628 - test - No reset before, work path is [C:\Windows\system32].
+2018-02-07 10:32:37,584 - LaunchSession.py:629 - test - No reset before, abs path is [c:\auto_scard].
+2018-02-07 10:32:37,584 - LaunchSession.py:630 - test - 
+2018-02-07 10:32:37,584 - LaunchSession.py:636 - test - this client screen width and height is [1920 - 1080].
+2018-02-07 10:32:37,584 - LaunchSession.py:637 - test - 
+2018-02-07 10:32:37,584 - LaunchSession.py:639 - test - work path is [c:\auto_scard].
+2018-02-07 10:32:37,584 - LaunchSession.py:640 - test - abs path is [c:\auto_scard].
+2018-02-07 10:32:37,584 - LaunchSession.py:641 - test - 
+2018-02-07 10:32:37,598 - LaunchSession.py:645 - test - desktops is exist
+2018-02-07 10:32:37,598 - LaunchSession.py:305 - test - 
+2018-02-07 10:32:37,598 - LaunchSession.py:306 - test - [Reconnect_session]:
+2018-02-07 10:32:37,598 - LaunchSession.py:307 - test - ********************************************************************************************
+2018-02-07 10:32:37,598 - LaunchSession.py:308 - test - citrix_receiver_desktops_x  : 1025
+2018-02-07 10:32:37,598 - LaunchSession.py:309 - test - citrix_receiver_desktops_y  : 92
+2018-02-07 10:32:37,598 - LaunchSession.py:310 - test - vda_pin_center_x            : 781
+2018-02-07 10:32:37,598 - LaunchSession.py:311 - test - vda_pin_center_y            : 502
+2018-02-07 10:32:37,598 - LaunchSession.py:312 - test - vda_pin_passwd_x            : 1138
+2018-02-07 10:32:37,598 - LaunchSession.py:313 - test - vda_pin_passwd_y            : 488
+2018-02-07 10:32:37,598 - LaunchSession.py:314 - test - vda_pin_ok_button_x         : 1107
+2018-02-07 10:32:37,598 - LaunchSession.py:315 - test - vda_pin_ok_button_y         : 558
+2018-02-07 10:32:37,598 - LaunchSession.py:316 - test - 
+2018-02-07 10:32:37,598 - LaunchSession.py:318 - test - proc_wait_time : 30
+2018-02-07 10:32:37,598 - LaunchSession.py:319 - test - opt_wait_time  : 5
+2018-02-07 10:32:37,598 - LaunchSession.py:320 - test - ********************************************************************************************
+2018-02-07 10:32:37,598 - LaunchSession.py:321 - test - 
+2018-02-07 10:32:37,598 - LaunchSession.py:326 - test - Resource type is [desktop] and app_name is [njvda-rw7301].
+2018-02-07 10:32:37,598 - LaunchSession.py:327 - test - ##### reconnect start ...
+2018-02-07 10:32:37,598 - LaunchSession.py:332 - test - getWindow Citrix Receiver success.
+2018-02-07 10:32:37,598 - LaunchSession.py:338 - test - 
+2018-02-07 10:32:37,598 - LaunchSession.py:343 - test - resourcetype is [desktop] and x-y is [1025 - 92].
+2018-02-07 10:32:37,709 - LaunchSession.py:348 - test - start screen search...
+2018-02-07 10:32:41,709 - LaunchSession.py:350 - test - screen search result is [None]
+2018-02-07 10:32:41,709 - LaunchSession.py:353 - test - Can not find icon for desktops.
+2018-02-07 10:32:41,709 - LaunchSession.py:356 - test - click desktop when fail to find desktop.
+2018-02-07 10:32:41,818 - LaunchSession.py:360 - test - click after, mouse w-d is [1025 - 92].
+2018-02-07 10:32:41,818 - LaunchSession.py:384 - test - Change to Destops or favorites success, start sleep...
+2018-02-07 10:32:46,818 - LaunchSession.py:386 - test - Change to Destops or favorites success, sleep end.
+2018-02-07 10:32:46,818 - LaunchSession.py:388 - test - 
+2018-02-07 10:32:46,818 - LaunchSession.py:391 - test - type app_name is [njvda-rw7301].
+2018-02-07 10:32:52,943 - LaunchSession.py:395 - test - press tab.
+2018-02-07 10:32:53,161 - LaunchSession.py:395 - test - press tab.
+2018-02-07 10:32:53,381 - LaunchSession.py:399 - test - press enter.
+2018-02-07 10:33:03,490 - LaunchSession.py:403 - test - 
+2018-02-07 10:33:03,490 - LaunchSession.py:437 - test - 
+2018-02-07 10:33:03,490 - LaunchSession.py:443 - test - 
+2018-02-07 10:33:03,490 - LaunchSession.py:446 - test - set receiver to foreground.
+2018-02-07 10:33:05,490 - LaunchSession.py:451 - test - getWindow Citrix Receiver success.
+2018-02-07 10:33:36,819 - LaunchSession.py:460 - test - 
+2018-02-07 10:33:36,819 - LaunchSession.py:475 - test - find desktop session.
+2018-02-07 10:33:41,819 - LaunchSession.py:481 - test - set foucus desktop session finished.
+2018-02-07 10:33:41,819 - LaunchSession.py:485 - test - center X-Y of  windows is [781 - 502].
+2018-02-07 10:33:41,927 - LaunchSession.py:490 - test - press tab keyboard change to PIN.
+2018-02-07 10:33:42,256 - LaunchSession.py:499 - test - input PIN password.
+2018-02-07 10:33:42,584 - LaunchSession.py:508 - test - press tab keyboard change to OK.
+2018-02-07 10:33:42,694 - LaunchSession.py:512 - test - press enter keyboard change to finish.
+2018-02-07 10:33:42,694 - LaunchSession.py:514 - test - current result is [2000].
+2018-02-07 10:33:42,694 - LaunchSession.py:518 - test - 
+2018-02-07 10:33:42,694 - LaunchSession.py:657 - test - call reconnect_session result is [0].
+2018-02-07 10:33:42,694 - LaunchSession.py:659 - test - Reconnect is success...
+2018-02-07 10:33:42,694 - LaunchSession.py:660 - test - 
